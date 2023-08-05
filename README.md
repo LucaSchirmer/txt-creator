@@ -1,7 +1,7 @@
 # txt-creator
  A Java Application to create txt files with less clicks
 
- The program kan be run using a .bat file.
+ The program can be run using a .bat file.
 
  1. create your .bat file
  2. print the following content into the file
